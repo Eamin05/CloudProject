@@ -1,7 +1,7 @@
 {
   "name": "shreya",
   "version": "1.0.0",
-  "description": "",
+  "description": "��#\u0000 \u0000M\u0000a\u0000g\u0000d\u0000a\u0000l\u0000e\u0000n\u0000e\u0000\r\u0000 \u0000",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,5 +19,7 @@
     "mongoose": "^8.0.1",
     "nodemon": "^3.0.1",
     "path": "^0.12.7"
-  }
+  },
+  "devDependencies": {},
+  "keywords": []
 }
